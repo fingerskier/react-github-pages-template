@@ -24,8 +24,8 @@ function App() {
         <ul>
           <li>Recreation steps</li>
           <li>Create a new React app repo</li>
-          <li>Under repo Settings &gt; Pages set folder to `build`</li>
-          <li>Edit .gitignore, remove `/build`</li>
+          <li>Under repo Settings &gt; Pages set folder to `docs`</li>
+          <li>add `BUILD_PATH=docs`</li>
           <li>Build & push</li>
         </ul>
       </main>
